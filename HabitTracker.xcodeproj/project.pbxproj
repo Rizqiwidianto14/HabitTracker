@@ -12,7 +12,7 @@
 			containerPortal = 000000000000000000000000 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 000000000000000100000000;
-			remoteInfo = AcademyHabitTracker;
+			remoteInfo = AcademyHabitTrackerz;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -419,7 +419,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AcademyHabitTracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AcademyHabitTracker";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AcademyHabitTrackerz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AcademyHabitTrackerz";
 			};
 			name = Debug;
 		};
@@ -442,7 +442,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AcademyHabitTracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AcademyHabitTracker";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AcademyHabitTrackerz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AcademyHabitTrackerz";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

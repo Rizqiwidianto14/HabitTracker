@@ -1,6 +1,6 @@
 import Foundation
 import Testing
-@testable import AcademyHabitTracker
+@testable import AcademyHabitTrackerz
 
 // MARK: - Habit Model Tests
 

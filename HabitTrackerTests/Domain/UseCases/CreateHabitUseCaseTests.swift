@@ -1,5 +1,5 @@
 import Testing
-@testable import AcademyHabitTracker
+@testable import AcademyHabitTrackerz
 
 // MARK: - CreateHabitUseCase Tests
 
