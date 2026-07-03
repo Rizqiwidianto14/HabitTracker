@@ -17,7 +17,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		000000000000000000000120 /* AcademyHabitTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AcademyHabitTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		000000000000000000000120 /* AcademyHabitTrackerz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AcademyHabitTrackerz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE2FC20E2FE2563E009E7DA4 /* HabitTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HabitTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 		000000000000000000000020 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				000000000000000000000120 /* AcademyHabitTracker.app */,
+				000000000000000000000120 /* AcademyHabitTrackerz.app */,
 				CE2FC20E2FE2563E009E7DA4 /* HabitTrackerTests.xctest */,
 			);
 			name = Products;
@@ -84,7 +84,7 @@
 			);
 			name = HabitTracker;
 			productName = MyApp;
-			productReference = 000000000000000000000120 /* AcademyHabitTracker.app */;
+			productReference = 000000000000000000000120 /* AcademyHabitTrackerz.app */;
 			productType = "com.apple.product-type.application";
 		};
 		CE2FC20D2FE2563E009E7DA4 /* HabitTrackerTests */ = {
@@ -342,7 +342,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Rizqiwidianto.HabitTracker;
-				PRODUCT_NAME = AcademyHabitTracker;
+				PRODUCT_NAME = AcademyHabitTrackerz;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -385,7 +385,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Rizqiwidianto.HabitTracker;
-				PRODUCT_NAME = AcademyHabitTracker;
+				PRODUCT_NAME = AcademyHabitTrackerz;
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
